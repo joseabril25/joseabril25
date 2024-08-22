@@ -90,11 +90,11 @@ I have a strong passion for building efficient software solutions and helping ot
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joseabril25&show_icons=true&locale=en&theme=dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=joseabril25&show_icons=true&locale=en&theme=dark&layout=compact" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseabril25&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseabril25&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
