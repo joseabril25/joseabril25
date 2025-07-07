@@ -15,16 +15,16 @@
 
 
 ### Glad to see you here!  
-I am a software engineer, former startup founder, and lifelong learner. I have been a software engineer for over 7 years. I am currently finishing my Master’s Degree in Software Engineering here in Auckland, New Zealand. I am studying part-time at Yoobee College of Creative Innovation. And I am currently exploring deeply into the world of Machine Learning, Artificial Intelligence and Data Science.
+'m a software engineer who turns complex problems into elegant solutions. With over 8 years of experience building scalable SaaS platforms, I recently completed my Master's in Software Engineering at Yoobee College of Creative. Now I'm diving deep into the exciting realms of Machine Learning, AI, and Data Science – because why stop learning when there's so much cool stuff to explore?
 
-I have a strong passion for building efficient software solutions and helping other developers grow. I was recently invited to join the Backdrop Build program. It is a program that helps developers build their own startups. I am currently working on a project called Gig Bridge Labs. It is a personalized learning platform to help professionals transition into in-demand tech careers. Get the skills and support you need to succeed in the tech industry.  
+I'm passionate about Web3 and AI, AWS cloud architecture, serverless computing, and building APIs that just work. My tech stack spans from Python/Django and Node.js to React, Next.js, Vue.js and beyond. I believe great code should be clean, scalable, and – dare I say it – beautiful.
   
-
+Beyond writing code, I love empowering other developers and sharing knowledge with the community. Whether it's blockchain integration, cloud architecture, or just figuring out why that one test keeps failing, I'm always up for a good tech challenge and collaboration.
 <br/>  
 
 
 ## Rapidfire  
-🔭 I’m currently working on [Gig Bridge Labs](https://github.com/Gig-Bridge-Labs/gbl-app-fe)  
+🔭 I’m currently working on [Favour App](https://www.tryfavour.com/)
   
 
 🌱 I’m currently learning Langchain, ML, AI and Python  
@@ -42,7 +42,7 @@ I have a strong passion for building efficient software solutions and helping ot
 📫 You can reach me jose.abril4@gmail.com  
   
 
-⚡ Fun fact: I love reading manga/manhwa  
+⚡ Fun fact: I love reading manga/manhwa and I love playing music
   
 
 <br/>  
